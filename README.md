@@ -4,5 +4,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShanTen&theme=dark&layout=compact)
 
-¯\_(ツ)_/¯
+`¯\_(ツ)_/¯`
 
