@@ -1,6 +1,6 @@
 ### Hi
 
-Im shan10 and I love chop suey 
+need 2 get gud @ cpp :(
 
 ![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShanTen&theme=highcontrast&show_icons=true&hide_rank=true])
 
