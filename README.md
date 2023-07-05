@@ -1,11 +1,7 @@
 ### Hi
 
 
-
-![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShanTen&theme=highcontrast&show_icons=true&hide_rank=true])
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShanTen&theme=highcontrast)
+(pushing more stuff soon!)
 
 
 `¯\_(ツ)_/¯`
