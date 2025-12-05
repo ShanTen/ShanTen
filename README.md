@@ -7,7 +7,8 @@ currently attempting to pick one and actually get really good at it instead of b
 js/ts, python, c, java, react native, batch files (dont ask), powershell, c# 
 
 ### im picking up 
-- springboot (gotta get on that employment grind)
+- ~springboot (gotta get on that employment grind)~
+- [Frappe!](https://github.com/frappe) <3 
 
 ### domains ive worked on
 - data science, IoT, webdev, mobile dev, embedded systems
